@@ -1,0 +1,25 @@
+{
+  "nextId": 5,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "jessica mayra",
+      "balance": 7444
+    },
+    {
+      "id": 2,
+      "name": "jessica mayra",
+      "balance": 7444
+    },
+    {
+      "id": 3,
+      "name": "jessica mayra",
+      "balance": 7444
+    },
+    {
+      "id": 4,
+      "name": "jessica mayra",
+      "balance": 7444
+    }
+  ]
+}

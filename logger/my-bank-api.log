@@ -1,0 +1,71 @@
+2024-02-26T12:49:48.822Z [.logger/my-bank-api] info : API Started}
+2024-02-26T12:50:32.503Z [/my-bank-api] info : API Started}
+2024-02-26T12:50:34.238Z [my-bank-api] info : API Started}
+2024-02-26T12:50:55.904Z [my-bank-api] info : API Started}
+2024-02-26T12:55:33.841Z [my-bank-api] info : API Started}
+2024-02-26T12:56:44.322Z [my-bank-api] info : API Started}
+2024-02-26T12:58:06.341Z [my-bank-api] info : API Started}
+2024-02-26T12:58:06.988Z [my-bank-api] info : API Started}
+2024-02-26T12:59:18.750Z [my-bank-api] info : API Started}
+2024-02-26T13:03:07.541Z [my-bank-api] info : API Started}
+2024-02-26T13:03:40.085Z [my-bank-api] info : API Started}
+2024-02-26T13:03:49.258Z [my-bank-api] info : API Started}
+2024-02-26T13:03:59.673Z [my-bank-api] info : API Started}
+2024-02-26T13:04:05.284Z [my-bank-api] info : POST / account - {"id":7,"name":"jessica mayra","balance":7444}}
+2024-02-26T13:04:08.727Z [my-bank-api] info : GET / account}
+2024-02-26T13:04:29.957Z [my-bank-api] error : GET /account - ENOENT: no such file or directory, open 'accounts.json'}
+2024-02-26T13:04:34.837Z [my-bank-api] error : POST /account - ENOENT: no such file or directory, open 'accounts.json'}
+2024-02-26T13:04:41.804Z [my-bank-api] error : ENOENT: no such file or directory, open 'accounts.json'}
+2024-02-26T13:04:41.807Z [my-bank-api] info : API Started and file created}
+2024-02-26T13:04:46.172Z [my-bank-api] info : GET / account}
+2024-02-26T13:04:49.321Z [my-bank-api] info : POST / account - {"id":1,"name":"jessica mayra","balance":7444}}
+2024-02-26T13:04:49.998Z [my-bank-api] info : POST / account - {"id":2,"name":"jessica mayra","balance":7444}}
+2024-02-26T13:04:50.691Z [my-bank-api] info : POST / account - {"id":3,"name":"jessica mayra","balance":7444}}
+2024-02-26T13:04:51.207Z [my-bank-api] info : POST / account - {"id":4,"name":"jessica mayra","balance":7444}}
+2024-02-26T13:06:28.615Z [my-bank-api] info : GET / account}
+2024-02-26T13:13:15.376Z [my-bank-api] info : API Started}
+2024-02-26T13:13:26.567Z [my-bank-api] info : API Started}
+2024-02-26T13:14:04.581Z [my-bank-api] info : API Started}
+2024-02-26T13:14:08.799Z [my-bank-api] info : API Started}
+2024-02-26T13:14:11.518Z [my-bank-api] info : API Started}
+2024-02-26T13:14:12.296Z [my-bank-api] info : API Started}
+2024-02-26T13:14:13.802Z [my-bank-api] info : API Started}
+2024-02-26T13:14:40.592Z [my-bank-api] info : API Started}
+2024-02-26T13:14:55.439Z [my-bank-api] info : API Started}
+2024-02-26T13:15:07.048Z [my-bank-api] info : API Started}
+2024-02-26T13:15:22.579Z [my-bank-api] info : API Started}
+2024-02-26T13:15:27.575Z [my-bank-api] info : API Started}
+2024-02-26T13:16:38.780Z [my-bank-api] info : API Started}
+2024-02-26T13:16:39.921Z [my-bank-api] info : API Started}
+2024-02-26T13:16:58.061Z [my-bank-api] info : API Started}
+2024-02-26T13:17:51.997Z [my-bank-api] info : API Started}
+2024-02-26T13:19:07.745Z [my-bank-api] info : API Started}
+2024-02-26T13:19:21.881Z [my-bank-api] info : API Started}
+2024-02-26T13:20:56.967Z [my-bank-api] info : API Started}
+2024-02-26T13:21:29.264Z [my-bank-api] info : API Started}
+2024-02-26T13:21:42.879Z [my-bank-api] info : API Started}
+2024-02-26T13:21:52.592Z [my-bank-api] info : API Started}
+2024-02-26T13:23:21.321Z [my-bank-api] info : API Started}
+2024-02-26T13:24:58.020Z [my-bank-api] info : API Started}
+2024-02-26T13:25:47.493Z [my-bank-api] info : API Started}
+2024-02-26T13:26:06.364Z [my-bank-api] info : API Started}
+2024-02-26T13:26:16.375Z [my-bank-api] info : API Started}
+2024-02-26T13:26:30.621Z [my-bank-api] info : API Started}
+2024-02-26T13:26:39.756Z [my-bank-api] info : API Started}
+2024-02-26T13:26:41.394Z [my-bank-api] info : API Started}
+2024-02-26T13:27:25.523Z [my-bank-api] info : API Started}
+2024-02-26T13:27:56.508Z [my-bank-api] info : API Started}
+2024-02-26T13:28:48.347Z [my-bank-api] info : API Started}
+2024-02-26T13:29:25.660Z [my-bank-api] info : API Started}
+2024-02-26T13:29:27.660Z [my-bank-api] info : API Started}
+2024-02-26T13:29:40.654Z [my-bank-api] info : API Started}
+2024-02-26T13:29:43.819Z [my-bank-api] info : API Started}
+2024-02-26T13:30:59.514Z [my-bank-api] info : API Started}
+2024-02-26T13:31:14.505Z [my-bank-api] info : API Started}
+2024-02-26T13:31:15.045Z [my-bank-api] info : API Started}
+2024-02-26T13:31:32.757Z [my-bank-api] info : API Started}
+2024-02-26T13:32:48.583Z [my-bank-api] info : API Started}
+2024-02-26T13:32:50.770Z [my-bank-api] info : API Started}
+2024-02-26T13:33:23.752Z [my-bank-api] info : API Started}
+2024-02-26T13:34:24.311Z [my-bank-api] info : API Started}
+2024-02-26T13:35:24.043Z [my-bank-api] info : API Started}
